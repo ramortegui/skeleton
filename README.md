@@ -1,0 +1,2 @@
+# skeleton
+Ruby app skeleton
